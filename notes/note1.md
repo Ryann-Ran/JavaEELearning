@@ -6,7 +6,7 @@
 
 #### Data Types
 
-![image-20230913184300614](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20230913184300614.png)
+![image-20230913184300614](imgs/image-20230913184300614-16951905099711.png)
 
 ```java
 package a;
@@ -71,7 +71,7 @@ public class JavaBasics {
 
 3. 类存放在堆
 
-<img src="C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20230913184749285.png" alt="image-20230913184749285" style="zoom:200%;" />
+<img src="imgs/image-20230913184749285.png" alt="image-20230913184749285" style="zoom:200%;" />
 
 #### Overloading
 
@@ -151,7 +151,7 @@ map.put("1", "value1");
 map.put("2", "value2");
 ```
 
-![image-20230913191935641](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20230913191935641.png)
+![image-20230913191935641](imgs/image-20230913191935641.png)
 
 ```java
 // 遍历法一：普遍使用，二次取值
@@ -179,9 +179,9 @@ for (String v: map.values()) {
 
 ### Exception Handling
 
-![image-20230913193757515](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20230913193757515.png)
+![image-20230913193757515](imgs/image-20230913193757515.png)
 
-* Checked Exeption
+* Checked Exception
   * Caused by user errors or problems
   * If not caught, cannot be compiled.
 
