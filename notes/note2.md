@@ -129,7 +129,9 @@ public class PropertiesLoader {
 * 获取当前的`Class`对象
 * 调用`getResourceAsStream()`就可以直接从classpath读取任意的资源文件。如果资源文件不存在，`getResourceAsStream()`将返回`null`。
 
-default.properties文件内容如下：
+> `class.getResourceAsStream(String path) `： `path `不以’/'开头时默认是从此类所在的包下取资源，以’/'开头则是从classPath根下获取。其只是通过path构造一个绝对路径，最终还是由ClassLoader获取资源。 
+
+`default.properties`文件内容如下：
 
 ```properties
 name= jia
@@ -388,7 +390,7 @@ public @interface ValidateAge {
 * 用@interface定义注解
 * 添加参数、默认值
 * 用元注解配置注解
-  * 必须设置`@Target`和`@Retention`
+  * ==必须设置`@Target`和`@Retention`==
     * 最常用的元注解是`@Target`。使用`@Target`可以定义`Annotation`能够被应用于源码的哪些位置：
       - 类或接口：`ElementType.TYPE`；
       - 字段：`ElementType.FIELD`；
@@ -621,3 +623,20 @@ void testNegative() {
 分析原因是编写功能时，对ClassNotFoundException使用try-catch已经捕获了，所以没有抛出。
 
 解决方法：将处理方式从try-catch改为throws，通过测试
+
+### 上课讲评
+
+* 注意异常处理
+  * 如，`getProperty()`前，读取的props文件可能是空值
+
+* 使用throw将异常抛出
+  * 明确反馈错误原因，明确抛出去，封装一下异常，告诉调用者。不能抛出原始异常
+  * try-catch，异常信息打印在控制台，调用者获取不到异常信息，无法做后续处理
+* 先进行条件判断，减少括号嵌套
+
+* 运行时只能访问target文件夹下的classes文件夹，测试时既可以访问classes也可以访问test-classes
+
+![image-20230927153500912](imgs/image-20230927153500912.png)
+
+
+
