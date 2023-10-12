@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+demo:
+  userName: ryann
+
+#解决swagger 3与Spring boot的版本兼容问题
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher

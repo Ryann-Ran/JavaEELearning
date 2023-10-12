@@ -166,6 +166,9 @@ property的“name”不是字段，而是setXXX方法中的XXX
 
 ## assignment3
 
-1. `pom.xml`：添加spring framework依赖
-2. 在resources文件夹下添加spring配置文件`applicationContext.xml`：告诉Spring的IoC容器应该如何创建并组装Bean
-3. 
+`pom.xml`：添加spring framework依赖
+
+在resources文件夹下添加spring配置文件`applicationContext.xml`：告诉Spring的IoC容器应该如何创建并组装Bean
+
+
+
