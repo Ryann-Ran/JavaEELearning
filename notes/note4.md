@@ -190,4 +190,14 @@ spring:
       matching-strategy: ant_path_matcher
 ```
 
+### 上课讲评
+
+注意点：
+
+* 线程安全
+* 写了三个测试
+  * `ProductApiTest`：接口测试（集成测试）。需要把环境运行起来，发消息调用接口，看接口调用得怎么样
+  * `ProductControllerTest`：接口测试。MockMvc模拟http请求
+    * 将ProductService注入到测试用例里面
+  * `ProductControllerMockTest`：单元测试。将所依赖的bean做成MockBean，不需要测试它们。
 
