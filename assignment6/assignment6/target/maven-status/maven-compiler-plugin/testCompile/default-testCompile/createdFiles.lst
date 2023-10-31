@@ -1,2 +1,4 @@
 edu\whu\demo\service\SupplierServiceTest.class
+edu\whu\demo\controller\ProductControllerMockMvcTest.class
+edu\whu\demo\MonitorAspectTest.class
 edu\whu\demo\service\ProductServiceTest.class

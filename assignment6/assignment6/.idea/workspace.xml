@@ -4,33 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="385612c5-564c-4a29-a65b-5fbe34deedf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/demo/aspect/MonitorAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/demo/exception/ExceptionResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/demo/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/demo/MonitorAspectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/demo/controller/ProductControllerMockMvcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment4/assignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment4/assignment4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notes/note5.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../notes/note5.md" afterDir="false" />
+    <list default="true" id="cfad26ad-e28a-47fd-a324-247410d1d5d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.whu.demo.MonitorAspectTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.whu.demo.controller.ProductControllerMockMvcTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/edu.whu.demo.MonitorAspectTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/edu.whu.demo.controller.ProductControllerMockMvcTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/213e9227-6012-44e9-b57d-fb36cf038467.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/213e9227-6012-44e9-b57d-fb36cf038467/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/213e9227-6012-44e9-b57d-fb36cf038467/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/213e9227-6012-44e9-b57d-fb36cf038467/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/213e9227-6012-44e9-b57d-fb36cf038467/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/whu/demo/aspect/MonitorAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/whu/demo/aspect/MonitorAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/whu/demo/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/whu/demo/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/whu/demo/controller/SupplierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/whu/demo/controller/SupplierController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/whu/demo/MonitorAspectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/whu/demo/MonitorAspectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/DemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/aspect/MonitorAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/aspect/MonitorAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/config/MpConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/config/MpConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/controller/SupplierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/controller/SupplierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/dao/ProductDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/dao/SupplierDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/dao/SupplierDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/domain/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/domain/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/domain/ProductDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/domain/ProductDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/domain/Supplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/domain/Supplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/exception/ExceptionResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/exception/ExceptionResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/exception/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/exception/ProductAdminException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/exception/ProductAdminException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/service/IProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/service/IProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/service/ISupplierService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/service/ISupplierService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/whu/demo/service/impl/SupplierServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/whu/demo/service/impl/SupplierServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.whu.demo.service.ProductServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.whu.demo.service.ProductServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.whu.demo.service.SupplierServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.whu.demo.service.SupplierServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.whu.demo.service.ProductServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.whu.demo.service.ProductServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.whu.demo.service.SupplierServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.whu.demo.service.SupplierServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/whu/demo/MonitorAspectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/whu/demo/MonitorAspectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/whu/demo/controller/ProductControllerMockMvcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/whu/demo/controller/ProductControllerMockMvcTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/whu/demo/service/ProductServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/whu/demo/service/ProductServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/whu/demo/service/SupplierServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/whu/demo/service/SupplierServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -46,9 +76,9 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectId" id="2XVq77YkatIcfyNPBSDg7q6PZDJ" />
+  <component name="ProjectId" id="2XWbbaUIsyFxmu1D3gnzIApwrGd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -57,20 +87,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ran/uni/course/junior-a/JavaEE/课件/assignment-3",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "spring.configuration.checksum": "99b1422c42ebb2a8f361510540fdb7d5",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -79,7 +98,22 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MonitorAspectTest.testAspect">
+  <component name="RunManager" selected="JUnit.ProductControllerMockMvcTest.addProduct_ValidProduct_ReturnsProduct">
+    <configuration name="MonitorAspectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.whu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.whu.demo" />
+      <option name="MAIN_CLASS_NAME" value="edu.whu.demo.MonitorAspectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MonitorAspectTest.testAspect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="assignment6" />
       <extension name="coverage">
@@ -91,40 +125,6 @@
       <option name="PACKAGE_NAME" value="edu.whu.demo" />
       <option name="MAIN_CLASS_NAME" value="edu.whu.demo.MonitorAspectTest" />
       <option name="METHOD_NAME" value="testAspect" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductControllerHttpTest.getProductTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <module name="assignment6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.whu.demo.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="PACKAGE_NAME" value="edu.whu.demo.controller" />
-      <option name="MAIN_CLASS_NAME" value="edu.whu.demo.controller.ProductControllerHttpTest" />
-      <option name="METHOD_NAME" value="getProductTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductControllerHttpTest.testAddProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="assignment6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.whu.demo.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.whu.demo.controller" />
-      <option name="MAIN_CLASS_NAME" value="edu.whu.demo.controller.ProductControllerHttpTest" />
-      <option name="METHOD_NAME" value="testAddProduct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -161,47 +161,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="assignment6" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.whu.demo.DemoApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.whu.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.ProductControllerHttpTest.getProductTest" />
-      <item itemvalue="JUnit.MonitorAspectTest.testAspect" />
-      <item itemvalue="JUnit.ProductControllerHttpTest.testAddProduct" />
-      <item itemvalue="JUnit.ProductControllerMockMvcTest" />
-      <item itemvalue="JUnit.ProductControllerMockMvcTest.addProduct_ValidProduct_ReturnsProduct" />
-      <item itemvalue="Spring Boot.DemoApplication" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MonitorAspectTest.testAspect" />
-        <item itemvalue="JUnit.ProductControllerMockMvcTest" />
-        <item itemvalue="Spring Boot.DemoApplication" />
-        <item itemvalue="JUnit.ProductControllerHttpTest.testAddProduct" />
         <item itemvalue="JUnit.ProductControllerMockMvcTest.addProduct_ValidProduct_ReturnsProduct" />
+        <item itemvalue="JUnit.ProductControllerMockMvcTest" />
+        <item itemvalue="JUnit.MonitorAspectTest.testAspect" />
+        <item itemvalue="JUnit.MonitorAspectTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="385612c5-564c-4a29-a65b-5fbe34deedf0" name="Changes" comment="" />
-      <created>1698724425809</created>
+      <changelist id="cfad26ad-e28a-47fd-a324-247410d1d5d3" name="Changes" comment="" />
+      <created>1698747855790</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698724425809</updated>
-      <workItem from="1698724427341" duration="7556000" />
-      <workItem from="1698738458487" duration="7090000" />
+      <updated>1698747855790</updated>
+      <workItem from="1698747857110" duration="3552000" />
     </task>
     <servers />
   </component>

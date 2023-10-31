@@ -1,6 +1,5 @@
 package edu.whu.demo.controller;
 
-
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import edu.whu.demo.domain.Supplier;
 import edu.whu.demo.exception.ProductAdminException;

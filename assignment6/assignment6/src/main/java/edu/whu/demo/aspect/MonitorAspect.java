@@ -71,7 +71,7 @@ public class MonitorAspect {
             long maxTime = Math.max(base, responseTime);
             maxTimeMetric.put(methodSig, maxTime);
 
-            base = minTimeMetric.getOrDefault(methodSig, 0L);
+            base = minTimeMetric.getOrDefault(methodSig, Long.MAX_VALUE);
             long minTime = Math.min(base, responseTime);
             minTimeMetric.put(methodSig, minTime);
 

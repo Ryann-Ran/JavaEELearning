@@ -1,9 +1,9 @@
 edu\whu\demo\service\ISupplierService.class
 edu\whu\demo\service\IProductService.class
-edu\whu\demo\CodeGenerator.class
 edu\whu\demo\service\impl\ProductServiceImpl.class
 edu\whu\demo\controller\SupplierController.class
 edu\whu\demo\dao\SupplierDao.class
+edu\whu\demo\aspect\MonitorAspect.class
 edu\whu\demo\exception\ProductAdminException.class
 edu\whu\demo\dao\ProductDao.class
 edu\whu\demo\service\impl\SupplierServiceImpl.class
@@ -11,6 +11,7 @@ edu\whu\demo\controller\ProductController.class
 edu\whu\demo\domain\Supplier.class
 edu\whu\demo\config\MpConfig.class
 edu\whu\demo\domain\Product.class
-edu\whu\demo\domain\Result.class
 edu\whu\demo\domain\ProductDTO.class
+edu\whu\demo\exception\ExceptionResponse.class
+edu\whu\demo\exception\GlobalExceptionHandler.class
 edu\whu\demo\DemoApplication.class
