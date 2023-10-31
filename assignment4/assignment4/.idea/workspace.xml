@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83da576a-5448-4466-9b58-ad312d2ffd8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/database.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/CodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/MybatisPlusApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/config/MpConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/controller/SupplierController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/dao/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/dao/SupplierDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/domain/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/domain/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/mapper/xml/ProductMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/mapper/xml/SupplierMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/service/ISupplierService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/java/edu/whu/assignment5/service/impl/SupplierServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../assignment5/assignment5/src/test/java/edu/whu/assignment5/service/ProductServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notes/note4.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../notes/note4.md" afterDir="false" />
-    </list>
+    <list default="true" id="83da576a-5448-4466-9b58-ad312d2ffd8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,6 +142,7 @@
       <workItem from="1697091837692" duration="13705000" />
       <workItem from="1697609846047" duration="1224000" />
       <workItem from="1697869336183" duration="5716000" />
+      <workItem from="1698214135519" duration="6000" />
     </task>
     <servers />
   </component>
