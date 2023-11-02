@@ -204,7 +204,9 @@ spring-aop-detail项目的测试类DemoAspectTest触发过程：
 * 添加aspect
 * 添加测试类
 
-### 错误解决
+### 上课讲评
 
-![image-20231031164545503](imgs/image-20231031164545503.png)
-
+* 不用写很多map，直接写一个对象`ApiMetric`
+  * 写了个`toString()`方法用于打印
+  * `StringBuilder`的效率高很多
+* 测试的时候不是直接创建controller对象，而是使用mockmvc进行模拟
